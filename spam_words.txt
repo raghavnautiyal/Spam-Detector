@@ -5,3 +5,5 @@ coupon
 free
 discount
 \d+%
+limited
+%
