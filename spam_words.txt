@@ -6,4 +6,4 @@ free
 discount
 \d+%
 limited
-%
+20%
